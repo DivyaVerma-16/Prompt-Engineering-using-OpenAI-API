@@ -35,7 +35,7 @@ Next, import the necessary libraries into your Jupyter notebook. You will need t
 
 from openai import OpenAI
 
-# I used my personal API key. Please consider use your own when running
+# I used my personal API key. Please consider using your own while running the code
 # experiments.
 client = OpenAI(
     api_key = 'INSERT YOUR API KEY'
